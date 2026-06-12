@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Bootstrap+%7C+Tailwind+CSS;TypeScript+%7C+React;Git+%7C+GitHub;Building+Modern+Web+Experiences" />
 
-<br>
-
-
-
 </div>
 
 ---
