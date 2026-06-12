@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=peteremad438-ux&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
 
 </div>
 
