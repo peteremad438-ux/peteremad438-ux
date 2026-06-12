@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Peter Emad
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Bootstrap+%7C+Tailwind+CSS;TypeScript+%7C+React;Git+%7C+GitHub;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Bootstrap+%7C+Tailwind+CSS;TypeScript+%7C+React;Git+%7C+GitHub;Building+Modern+Web+Experiences" />
 
 </div>
 
@@ -42,69 +42,17 @@ const peterEmad = {
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 What I Do
 
-### 💪 Engage Gym
-Modern fitness website with responsive design.
+✨ Build Responsive Websites
 
-🔗 https://github.com/peteremad438-ux/Modern-gym
+⚡ Create Modern User Interfaces
 
----
+🎨 Transform Designs Into Real Projects
 
-### 🏆 FIFA World Cup
-World Cup history, champions, legends, and memorable moments.
+📱 Develop Mobile-Friendly Experiences
 
-🔗 https://github.com/peteremad438-ux/fifa-world-cup
-
----
-
-### 🏥 MedCare
-Professional hospital and healthcare website.
-
-🔗 https://github.com/peteremad438-ux/MADE-CARE
-
----
-
-### 👨‍💻 Card About Me
-Personal developer card showcasing skills and information.
-
-🔗 https://github.com/peteremad438-ux/card-about-me
-
----
-
-### ☕ Coffee Website
-Modern coffee shop landing page.
-
-🔗 https://github.com/peteremad438-ux/COFFE
-
----
-
-### 🎵 Coptic Hymns
-Website dedicated to Coptic hymns and church content.
-
-🔗 https://github.com/peteremad438-ux/COPTIC-HUMNS
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=peteremad438-ux&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteremad438-ux&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=peteremad438-ux&theme=tokyonight"/>
-
-</div>
+🚀 Continuously Learning New Technologies
 
 ---
 
@@ -130,8 +78,10 @@ Website dedicated to Coptic hymns and church content.
 
 <div align="center">
 
-### 💻 Turning Ideas Into Beautiful Web Experiences
+### 🚀 Crafting Modern, Fast & Responsive Web Experiences
 
-⭐ Thanks for visiting my profile ⭐
+Always Learning • Always Building
+
+⭐ Thanks for Visiting My Profile ⭐
 
 </div>
